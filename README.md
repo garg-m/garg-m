@@ -7,4 +7,4 @@
 - 🛶 Going on hikes and paddling a kayak across the lake are some of the activities that I enjoy on my days off.
 - 😄 Life Goal: Want to see Aurora Borealis from above and below.
 - 📫 Reach me @ 
-  ![LinkedIn](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
+  <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
