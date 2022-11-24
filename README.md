@@ -1,7 +1,7 @@
 ## Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="20px">
 
 - 🔭 I’m currently working on designing a TA portal for UF students to search for open TA positions in CISE department.
-- 👯 I am programming enthusiast and love to code in C++ and Java. I am learning new skills everyday and never want to stop.
+- 👯 I am programming enthusiast and love to code in C++ and Java. I am a keen learner and love to learn about latest technologies.
 - 🤔 Open to discussions over coffee.
 - 💬 Ask me about science and I can intrest you in long conversations on SCi-Fi 😆
 - 🛶 Going on hikes and paddling a kayak across the lake are some of the activities that I enjoy on my days off.
