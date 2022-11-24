@@ -12,7 +12,7 @@
   
   <a href="https://www.reddit.com/user/gargm1501/"><img src="https://www.logo.wine/a/logo/Reddit/Reddit-Logo.wine.svg" alt="Reddit" loading="lazy" width="115" height="28" style="background-color:aquamarine;">
 </a>
-
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
 <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="gargm1501" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/gargm1501?trk=profile-badge">Mayank Garg</a></div>
               
   
