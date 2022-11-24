@@ -10,7 +10,11 @@
  
   <a href="https://www.linkedin.com/in/gargm1501/"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--chf73s-H--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Linked_In-0077B5%3Fstyle%3Dfor-the-badge%26logo%3DLinkedIn%26logoColor%3Dwhite" alt="linked-in" loading="lazy" width="115" height="28"></a>
   
-  <a href="https://www.reddit.com/user/gargm1501/"><img src="https://www.logo.wine/a/logo/Reddit/Reddit-Logo.wine.svg" alt="Reddit" loading="lazy" width="115" height="28" rect width="300" height="100" style="fill:rgb(0,0,255);stroke-width:3;stroke:rgb(0,0,0)">
+  <a href="https://www.reddit.com/user/gargm1501/"><img src="https://www.logo.wine/a/logo/Reddit/Reddit-Logo.wine.svg" alt="Reddit" loading="lazy" width="115" height="28">
+ <svg width="400" height="180">
+  <rect x="50" y="20" width="150" height="150"
+  style="fill:blue;stroke:pink;stroke-width:5;fill-opacity:0.1;stroke-opacity:0.9" />
+</svg>
 
 </a>
   
