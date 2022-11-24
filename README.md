@@ -1,4 +1,4 @@
-## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="20px">
+## Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="20px" height="20px">
 
 - 🔭 I’m currently working on designing a TA portal for UF students to search for open TA positions in CISE department.
 - 👯 I am programming enthusiast and love to code in C++ and Java. I am learning new skills everyday and never want to stop.
