@@ -5,7 +5,7 @@
 - 🤔 Open to discussions over coffee.
 - 💬 Ask me about science and I can intrest you in long conversations on SCi-Fi 😆
 - 🛶 Going on hikes and paddling a kayak across the lake are some of the activities that I enjoy on my days off.
-- 😄 Life Goal: Want to see Aurora Borealis from above and below.
+- 😄 Bucket list: Want to see Aurora Borealis from above and below.
 ##
 - Reach me @
 
